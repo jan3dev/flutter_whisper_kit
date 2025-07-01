@@ -11,7 +11,7 @@ iOS and macOS implementation of the flutter_whisper_kit plugin, providing on-dev
                        DESC
   s.homepage         = 'https://github.com/r0227n/flutter_whisper_kit/tree/main/packages/flutter_whisper_kit_apple'
   s.license          = { :type => 'MIT', :file => '../LICENSE' }
-  s.author           = 'Ryo24'
+  s.authors          = { 'Ryo24' => '' }
 
   # CocoaPods requires a primary key (:git, :http, etc.) for `source`.
   # Use a public tag URL so that `pod lib lint` works both locally and in CI.
