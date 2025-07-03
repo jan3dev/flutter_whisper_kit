@@ -13,7 +13,7 @@ let package = Package(
         .library(name: "flutter-whisper-kit-apple", targets: ["flutter_whisper_kit_apple"])
     ],
     dependencies: [
-        .package(url: "https://github.com/argmaxinc/WhisperKit.git", from: "0.12.0")
+        .package(url: "https://github.com/argmaxinc/WhisperKit.git", from: "0.13.0")
     ],
     targets: [
         .target(
